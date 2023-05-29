@@ -1,0 +1,581 @@
+Test1
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 0
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 1
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 2
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 3
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 4
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 5
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 6
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 7
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 8
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 9
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 10
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 11
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 12
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 13
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 14
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 15
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 3 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 16
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 3 (Arrival: 16, Service: 3) placed in Queue 1
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 17
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 3 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 18
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 3 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 19
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 3 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 3 (Arrival: 16, Service: 3) finished service at time 19
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 20
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 21
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 22
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 23
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 24
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 25
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 26
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 27
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 28
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 29
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 30
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 31
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 32
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 33
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 34
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 35
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 36
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 37
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 1 2 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 38
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 1 (Arrival: 38, Service: 4) placed in Queue 1
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 2 (Arrival: 38, Service: 4) placed in Queue 2
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 39
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 1 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: open, Clients: 2 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 40
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 1 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: open, Clients: 2 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 41
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 1 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: open, Clients: 2 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 42
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 1 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: open, Clients: 2 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 1 (Arrival: 38, Service: 4) finished service at time 42
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 2 (Arrival: 38, Service: 4) finished service at time 42
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 43
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 44
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 45
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 46
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 47
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 48
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 49
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 50
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 51
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 52
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 53
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 54
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 55
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 56
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 57
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 58
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 59
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 4 (Arrival: 59, Service: 2) placed in Queue 1
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 60
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Time: 61
+
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 1: open, Clients: 4 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Queue 2: closed
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Client 4 (Arrival: 59, Service: 2) finished service at time 61
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: Clients still waiting in the waiting room: 
+May 29, 2023 8:30:18 PM Main runSimulation
+INFO: 
+Simulation Summary
+------------------
+Total clients served: 4
+Average waiting time: 2.75
